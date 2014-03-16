@@ -1,0 +1,15 @@
+{
+  "name": "gulp-freeze",
+  "version": "0.0.0",
+  "description": "Adds md5 checksum to file names",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "gulp-util": "~2.2.14"
+  }
+}
