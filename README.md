@@ -26,3 +26,10 @@ gulp.task('default', function() {
         .pipe(gulp.dest('dest'));
 });
 ```
+
+
+## Configuration
+
+Now we support one configuration property:
+
+**append**(Boolean) - append checksum to filename. If not, filename will be replaced by hash. Defaults to **true**. Call plugin as `freeze({append: false})` to disable it.
