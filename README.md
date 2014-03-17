@@ -1,4 +1,4 @@
-# gulp-freeze
+# gulp-freeze [![Build Status](https://travis-ci.org/just-boris/gulp-freeze.png?branch=master)](https://travis-ci.org/just-boris/gulp-freeze) ![Cool Badge](http://img.shields.io/badge/cool-badge-brightgreen.svg)
 
 > Adds md5 checksum to filename
 

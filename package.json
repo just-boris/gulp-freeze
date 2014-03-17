@@ -4,12 +4,13 @@
   "description": "Adds md5 checksum to file names",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node node_modules/.bin/mocha"
   },
   "dependencies": {
     "through": "~2.3.4"
   },
   "devDependencies": {
-    "gulp-util": "~2.2.14"
+    "gulp-util": "~2.2.14",
+    "mocha": "~1.18.0"
   }
 }
