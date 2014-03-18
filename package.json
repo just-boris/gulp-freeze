@@ -7,7 +7,7 @@
     "test": "node node_modules/.bin/mocha"
   },
   "dependencies": {
-    "through": "~2.3.4"
+    "through2": "~0.4.1"
   },
   "devDependencies": {
     "gulp-util": "~2.2.14",
