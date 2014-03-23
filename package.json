@@ -1,6 +1,6 @@
 {
   "name": "gulp-freeze",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds md5 checksum to file names",
   "keywords": [
     "md5",
