@@ -18,7 +18,7 @@ This gulpfile creates a file named like `app.min_0187d9d019510c4e1492acad3015fda
 
 ```js
 var gulp    = require('gulp');
-var freeze = require('./index');
+var freeze = require('gulp-freeze');
 
 gulp.task('default', function() {
     gulp.src('dest/app.min.js')
