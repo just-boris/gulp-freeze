@@ -2,6 +2,7 @@
   "name": "gulp-freeze",
   "version": "0.0.1",
   "description": "Adds md5 checksum to file names",
+  "repository": "just-boris/gulp-freeze",
   "keywords": [
     "md5",
     "gulpplugin"
